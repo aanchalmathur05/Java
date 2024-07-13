@@ -1,0 +1,6 @@
+package JAVA.week0;
+import java.util.Scanner;
+public class Day1{
+     public static void main(String [] args)
+       scanner sc=new Scanner (System.in)
+}
